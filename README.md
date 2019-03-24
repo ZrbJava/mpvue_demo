@@ -1,3 +1,7 @@
+
+
+
+
 # mpvue_demo
 
 > 使用mpvue做个简单的demo
@@ -34,5 +38,12 @@ npm build:my
 npm run build --report
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+###  商品列表
 
+![效果图](./static/examples/shop.png)
+
+
+
+### 商品详情页
+
+![商品详情页](./static/examples/shopDetial.png)
