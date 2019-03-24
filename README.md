@@ -1,6 +1,6 @@
 # mpvue_demo
 
-> A Mpvue project
+> 使用mpvue做个简单的demo
 
 ## Build Setup
 
@@ -35,3 +35,4 @@ npm run build --report
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
